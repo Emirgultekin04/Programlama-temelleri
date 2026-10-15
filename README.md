@@ -1,1 +1,1 @@
-# Programlama-temelleri
+# Programlama-temelleri # Emir Gültekin 
